@@ -1,6 +1,6 @@
 {
   "name": "hexo-mathjax3-linebreak",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Solve MathJax3 linebreak issue",
   "main": "index.js",
   "homepage": "https://github.com/silencial/hexo-mathjax3-linebreak",
